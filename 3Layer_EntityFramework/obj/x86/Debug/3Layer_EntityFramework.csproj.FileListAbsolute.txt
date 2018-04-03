@@ -1,0 +1,10 @@
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\_3Layer_EntityFramework.Properties.Resources.resources
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\3Layer_EntityFramework.exe
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\3Layer_EntityFramework.pdb
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\3Layer_EntityFramework.exe
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\3Layer_EntityFramework.pdb
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\3Layer_EntityFramework.exe.config
+F:\DB Programming\3Layer_EntityFramework\3Layer_EntityFramework\obj\x86\Debug\_3Layer_EntityFramework.frmProducts.resources

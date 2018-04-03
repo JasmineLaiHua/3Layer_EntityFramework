@@ -1,0 +1,5 @@
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\DTO.dll
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\DTO.pdb
+F:\DB Programming\3Layer_EntityFramework\DTO\obj\Debug\ResolveAssemblyReference.cache
+F:\DB Programming\3Layer_EntityFramework\DTO\obj\Debug\DTO.dll
+F:\DB Programming\3Layer_EntityFramework\DTO\obj\Debug\DTO.pdb

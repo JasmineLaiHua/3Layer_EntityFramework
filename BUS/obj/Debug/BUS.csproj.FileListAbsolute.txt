@@ -1,0 +1,5 @@
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\BUS.dll
+F:\DB Programming\3Layer_EntityFramework\bin\Debug\BUS.pdb
+F:\DB Programming\3Layer_EntityFramework\BUS\obj\Debug\ResolveAssemblyReference.cache
+F:\DB Programming\3Layer_EntityFramework\BUS\obj\Debug\BUS.dll
+F:\DB Programming\3Layer_EntityFramework\BUS\obj\Debug\BUS.pdb
